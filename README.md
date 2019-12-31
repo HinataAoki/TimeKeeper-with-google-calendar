@@ -1,6 +1,10 @@
 "# TimeKeeper-with-google-calendar" 
 <br>
-You need to follow and create "credentials.json" file
+You can record your life-time with onclick_button.
+<br>
+You can review your life style in google calendar.
+<br>
+You need to follow and create "credentials.json" file.
 <br>
 →https://developers.google.com/calendar/quickstart/python
 <br>
