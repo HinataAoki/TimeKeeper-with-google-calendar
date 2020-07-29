@@ -1,4 +1,4 @@
-"# TimeKeeper-with-google-calendar" 
+# TimeKeeper-with-google-calendar
 <br>
 You can record your life-time with onclick_button.
 <br>
